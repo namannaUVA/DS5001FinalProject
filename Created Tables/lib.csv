@@ -1,0 +1,5 @@
+book_id,source_file_path,author,title,chap_regex
+201,/content/drive/MyDrive/Graduate/DS 5001 Final Project/Text Analytics Final/201.txt,Edwin A. Abbot,Flatland: A Romance of Many Dimensions,"^[0-9;,-]+\.*$"
+84,/content/drive/MyDrive/Graduate/DS 5001 Final Project/Text Analytics Final/84.txt,Mary Wollstonecraft Shelley,Frankenstein,^\s*(?:Chapter|Letter)\s+\w+
+5230,/content/drive/MyDrive/Graduate/DS 5001 Final Project/Text Analytics Final/5230.txt,H. G. Wells,The Invisible Man,"^([IVXLCM]+|[A-Z';, -]+)\.*$"
+18247,/content/drive/MyDrive/Graduate/DS 5001 Final Project/Text Analytics Final/18247.txt,Mary Wollstonecraft Shelley,The Last Man,^\s*(?:chapter|letter)\s+\w+
